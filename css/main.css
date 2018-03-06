@@ -1,0 +1,10 @@
+.imageBackgraund{
+    background-image: url('../assets/images/sw_background.jpg');
+    height: 200%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.left{
+    float: left;
+}
